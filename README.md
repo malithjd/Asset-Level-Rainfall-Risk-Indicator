@@ -12,7 +12,7 @@ This project develops a physical risk assessment framework to evaluate the impac
 ## 🛠️ Data Engineering & Extraction
 The core of this project is an automated pipeline that transforms raw satellite imagery into a structured, validated dataset ready for business intelligence.
 
-![Data Journey](./images/datascraping.jpeg)  
+![Data Journey](./images/data_scraping.jpeg)  
 *Figure 1: The data extraction workflow—from GEE exploration and Python base function development to PySpark-driven data integration.*
 
 **Key Engineering Steps:**
@@ -37,7 +37,7 @@ $$PCI = \frac{\sum_{i=1}^{12} p_i^2}{(\sum_{i=1}^{12} p_i)^2} \cdot 100$$
 ## 📈 Strategic Results
 The final output is an integrated risk dashboard that provides a global view of Nippon Steel’s vulnerability.
 
-![Final Dashboard](./images/dashboard.jpeg)  
+![Final Dashboard](./images/dashbaord.jpeg)  
 *Figure 3: Rainfall Risk Radar Dashboard showing industry-specific risk concentrations.*
 
 ### **Key Insights:**
