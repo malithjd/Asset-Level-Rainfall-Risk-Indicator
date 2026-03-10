@@ -50,8 +50,3 @@ The final output is an integrated risk dashboard that provides a global view of 
 * **Geospatial:** Google Earth Engine (GEE), GSMap.
 * **Data Processing:** Python, PySpark, Pandas.
 * **Visualization:** Power BI / Matplotlib.
-
-## 📂 Repository Structure
-* `/notebooks`: Python scripts for GEE extraction and PCI calculation.
-* `/reports`: Final technical report (PDF) and project slides.
-* `/data`: Asset metadata (coordinates and industry types).
